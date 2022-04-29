@@ -13,8 +13,7 @@ Fedora Based: sudo dnf update & upgrade
 Arch Linux Based: sudo pacman -Sy
                   sudo pacman -S python3-pip
                   sudo pip install socks
-                  
-                  
+                           
 Usage after cloning the repository:
   cd Deluxe-DDos
   python3 deluxe.py
